@@ -1,0 +1,84 @@
+{
+  "name": "Post-Matric Freeship for OBC/VJNT/SBC Students",
+
+  "des": "The Post-Matric Freeship for OBC/VJNT/SBC Students is a state-sponsored Maharashtra Government scheme implemented by the VJNT, OBC and SBC Welfare Department through the MahaDBT portal. It provides Tuition Fee and Examination Fee reimbursement along with monthly maintenance allowance to students belonging to Other Backward Classes (OBC), Vimukta Jati & Nomadic Tribes (VJNT), and Special Backward Classes (SBC) pursuing post-matric education. This scheme is distinct from the GOI Post-Matric Scholarship — it is a state freeship applicable to students with family income above ₹1,50,000 and up to ₹8,00,000, while the GOI scholarship covers income up to ₹1,50,000. For MBA and MCA students: freeship is applicable (not the scholarship variant) — MBA is treated as a professional postgraduate course. OBC girl students get 100% Tuition Fee + Exam Fee as per GR dated 8 July 2024. Benefits are disbursed via Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account. Applications for A.Y. 2025–26 are open until 30 June 2026.",
+
+  "benefits": [
+    "OBC students in government/aided institutions (professional courses including MBA): 100% Tuition Fee + Examination Fee reimbursement",
+    "OBC students in unaided private institutions (professional courses including MBA): 50% Tuition Fee + 50% Examination Fee (calculated as per government aided fee structure, not actual unaided fees)",
+    "VJNT students: 100% Tuition Fee + Examination Fee for all institution types (government, aided, and unaided)",
+    "SBC students: 100% Tuition Fee + Examination Fee for all institution types",
+    "OBC girl students (GR 8 July 2024): 100% Tuition Fee + Exam Fee across ALL institution types including unaided private",
+    "MBA falls under Course Group A — Monthly Maintenance Allowance: Hostellers ₹425/month, Day Scholars ₹190/month",
+    "Maintenance allowance paid from date of admission to date of final examination (maximum 10 months)",
+    "For D.Ed and B.Ed courses: 100% Tuition Fee + Exam Fee + Maintenance Allowance",
+    "Only 2 children per family are eligible to avail benefits simultaneously",
+    "Benefits disbursed via DBT to Aadhaar-linked bank account",
+    "Applications for A.Y. 2025–26 open until 30 June 2026"
+  ],
+
+  "criteria": [
+    "Applicant must belong to OBC, VJNT, or SBC category (as per Maharashtra government caste list)",
+    "Applicant must be a permanent resident/domicile of Maharashtra",
+    "For Freeship (OBC/VJNT/SBC): annual family income must be MORE than ₹1,50,000 and up to ₹8,00,000 — students with income ≤ ₹1,50,000 should apply for the GOI Post-Matric Scholarship instead",
+    "For MBA/MCA: freeship is applicable (not the scholarship route) — MBA is eligible as a professional postgraduate course",
+    "Admission must be through CAP round (MAH-MBA CET CAP for MBA) — management quota and institute-level admissions are NOT eligible",
+    "Private Deemed Universities and Self-financed Private Universities are NOT eligible",
+    "Must maintain minimum 75% attendance in the current academic year",
+    "Must pass previous year examination — for OBC students: failure in any year = no reimbursement for that year; must self-fund until promotion",
+    "For Group A (MBA) first failure: award may be renewed; second and subsequent failures = student must bear own expenses until promotion",
+    "Only 2 children per family can avail the scheme simultaneously",
+    "Course change mid-academic year after availing scholarship/freeship = ineligibility for further freeship in the new course",
+    "Scholarship/freeship continuity rule: benefits continue for one full academic stream only (e.g. if B.A. → M.A. is one stream; MBA after B.Ed is a new professional course, so eligible)"
+  ],
+
+  "required_documents": [
+    "OBC/VJNT/SBC Caste Certificate issued by competent authority",
+    "Non-Creamy Layer (NCL) Certificate (valid — required for OBC category; issued within 1 year)",
+    "Annual Income Certificate from Tehsildar (family income > ₹1.5 lakh and ≤ ₹8 lakh for freeship)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory — proof of MAH-MBA CET CAP round admission)",
+    "Admission Receipt / Tuition Fee Receipt for current academic year",
+    "Bonafide Certificate from MBA institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Passport Size Photograph",
+    "Attendance Certificate showing minimum 75% attendance",
+    "Caste Validity Certificate (if available)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, and bank details",
+    "Navigate to 'VJNT, OBC and SBC Welfare Department' schemes list",
+    "For OBC students: select 'Tuition Fees and Examination Fees to OBC Students (Freeship)'",
+    "For VJNT students: select 'Tuition Fees and Examination Fees to VJNT Students (Freeship)'",
+    "For SBC students: select 'Post Matric Scholarship to SBC Students'",
+    "Select Course Group A for MBA — fill in institute details, CAP allotment details, and hostel/day scholar status",
+    "Upload all required documents in JPG/PDF format — ensure NCL certificate is valid and within 1 year",
+    "Review all details carefully and submit the application",
+    "Note Application ID and track real-time status via Granular Application Tracking on MahaDBT portal",
+    "Ensure institute principal verifies your application on MahaDBT — unverified applications are rejected",
+    "Applications for A.Y. 2025–26 open until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=Wv1GgKM-Nks",
+    "https://www.youtube.com/watch?v=PMTj7RgPL8E",
+    "https://www.youtube.com/watch?v=b_GVkrPZiLU",
+    "https://www.youtube.com/watch?v=WQIKwnpo5jw"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "OBC Freeship Scheme Page (MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A19A7691F3B40AD4EE0F3DDA5DE324AC54819922BB3D36B63",
+    "VJNT Freeship Scheme Page (MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AAC3D52BF09BB773555F3C82D946AC992C39B99CA73982F62",
+    "SBC Post-Matric Scholarship Scheme Page (MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51ABD801C85A5E1070827B2230746448BA9CCB9B577565F338F",
+    "VJNT OBC SBC Welfare Department Maharashtra": "https://vjnt.maharashtra.gov.in",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login"
+  }
+}

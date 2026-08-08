@@ -1,0 +1,73 @@
+{
+  "name": "Dr. Panjabrao Deshmukh Hostel Maintenance Allowance",
+
+  "des": "The Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojana is a state government scheme implemented by the Directorate of Medical Education & Research (DMER), Government of Maharashtra, through the MahaDBT portal. It provides hostel maintenance allowance to students from economically weaker sections — including children of marginal farmers (Alpabhudharak Shetkari) and registered labourers — pursuing specified medical and professional courses in government-aided, corporation, or private unaided colleges. The scheme ensures that financial constraints do not prevent meritorious students from staying in hostels in cities away from their hometown. Allowance is paid for 10 months per academic year (excluding vacation period) via Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account. Applications run through MahaDBT portal and the 2024–25 cycle continues until 30th June 2026.",
+
+  "benefits": [
+    "For students with annual family income ≤ ₹8,00,000 — Mumbai, Pune, Nagpur, Aurangabad: ₹3,000/month × 10 months = ₹30,000/year",
+    "For students with annual family income ≤ ₹8,00,000 — Other Maharashtra locations: ₹2,000/month × 10 months = ₹20,000/year",
+    "For students whose parents are Alpabhudharak Shetkari (Marginal Land Holders) / Registered Labourers — Mumbai, Pune, Nagpur, Aurangabad: ₹30,000/year (₹3,000/month for 10 months)",
+    "For students whose parents are Alpabhudharak Shetkari / Registered Labourers — Other Maharashtra locations: ₹20,000/year (₹2,000/month for 10 months)",
+    "Allowance paid for 10 months per academic year (vacation period excluded)",
+    "Direct Benefit Transfer (DBT) to Aadhaar-linked bank account",
+    "Applicable for both hostel and approved rented accommodation students"
+  ],
+
+  "criteria": [
+    "Student must be a permanent resident/domicile of Maharashtra",
+    "Must be admitted to one of the eligible courses: MBBS, BDS, BAMS, BHMS, BPTH, BOTH, B.Sc. Nursing, BUMS, BP&O, BASLP in a government-aided, corporation, or private unaided college",
+    "Annual family income must not exceed ₹8,00,000 from all sources OR parents must be Alpabhudharak Shetkari (Marginal Land Holders) / Registered Labourers",
+    "Admission must be through Centralized Admission Process (CAP) — management quota/institute-level admissions are NOT eligible",
+    "Eligible categories: General (Open) and SEBC (Socially and Educationally Backward Class) only",
+    "Student must have taken hostel admission in Mumbai, Pune, Aurangabad, Nagpur or other Maharashtra locations",
+    "Must NOT be enrolled in a deemed or private university",
+    "Must NOT be availing any other government scholarship/stipend simultaneously",
+    "Minimum 50% attendance in previous semester required (except freshly admitted students)",
+    "Must not have a gap of 2 or more consecutive years in education",
+    "Only 2 children per family can avail the scheme in a given academic year"
+  ],
+
+  "required_documents": [
+    "Income Certificate of parents/guardian (issued by Tehsildar/SDO — family income ≤ ₹8 lakh)",
+    "Maharashtra Domicile Certificate",
+    "Hostel Allotment Certificate / Hostel Bonafide from institute",
+    "Rent Agreement (if staying in approved rented accommodation instead of hostel)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Admission Fee Receipt for current academic year",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Caste Certificate (if applicable — for SEBC category)",
+    "Previous Year Marksheet",
+    "Alpabhudharak Shetkari Certificate or Labour Registration Certificate (if parents are marginal farmers/registered labourers)",
+    "Bonafide Certificate from the institute"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete the Applicant Profile with personal, academic, and bank details",
+    "Navigate to 'Directorate of Medical Education & Research (DMER)' schemes list",
+    "Select 'Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojana' and click Apply",
+    "Fill in hostel/accommodation details, course details, and location (city) accurately — allowance amount depends on city",
+    "Upload all required documents in specified format (JPG/PDF)",
+    "Review all details and submit the application",
+    "Note the Application ID and track real-time status using Granular Application Tracking on MahaDBT portal",
+    "Applications for 2024-25 are open until 30th June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=dUbRD1he3aE",
+    "https://www.youtube.com/watch?v=kMaFHhvHCRY",
+    "https://www.youtube.com/watch?v=PR4TGTKiQwg",
+    "https://www.youtube.com/watch?v=zyOF3PH1L1M"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "Dr. Panjabrao Deshmukh Scheme Page (DMER - DHE)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A154AF155ACB2A8B2FDDAB7A49A24E2B13EFE22C60B340852",
+    "Dr. Panjabrao Deshmukh Scheme Page (DTE)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA5337B52CE309785",
+    "Directorate of Medical Education & Research Maharashtra": "https://dmer.maharashtra.gov.in",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login"
+  }
+}

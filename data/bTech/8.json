@@ -1,0 +1,73 @@
+{
+  "name": "Rajarshi Shahu Maharaj Scholarship (EBC)",
+
+  "des": "The Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojana (EBC) — commonly known as the EBC Scholarship — is a Maharashtra Government scholarship scheme implemented by multiple technical departments (DTE, DHE, Agriculture, etc.) through the MahaDBT portal. It provides 50% tuition fee and 50% examination fee reimbursement to students belonging to the Open (General) category who fall under Economically Backward Class (EBC) or Economically Weaker Section (EWS). The scheme is governed by Government Resolutions (GRs) dated 7 Oct 2017, 1 Mar 2018, 31 Mar 2018, 11 Jul 2019, and 8 Jul 2024. Benefits are disbursed in 2 installments directly to the student's Aadhaar-seeded bank account via Direct Benefit Transfer (DBT). Importantly, only Open (General/EWS) category students are eligible — OBC, SC, ST, NT, and SEBC category students are NOT eligible for this scheme as they have separate dedicated scholarship schemes.",
+
+  "benefits": [
+    "50% reimbursement of Tuition Fees for the academic year",
+    "50% reimbursement of Examination Fees",
+    "Applicable for Diploma, Degree (UG), and Postgraduate (PG) technical and professional courses",
+    "Benefits disbursed in 2 installments via DBT to Aadhaar-seeded bank account",
+    "Applicable across multiple departments — DTE (Engineering/Pharmacy), DHE (Arts/Science/Commerce), Agriculture, etc.",
+    "Special provision: For OBC Girl students in professional courses — 100% Tuition Fee + Exam Fee reimbursement available under a separate variant (GR dated 8 July 2024)",
+    "Application for A.Y. 2025–26 commenced from 30 June 2025 and valid until 30 June 2026"
+  ],
+
+  "criteria": [
+    "Applicant must be an Indian citizen and permanent resident/domicile of Maharashtra",
+    "Applicant must belong to Open (General) category — EBC or EWS only",
+    "OBC, SC, ST, NT, SEBC, VJNT category students are NOT eligible (they have separate schemes)",
+    "Annual family income from all sources must not exceed ₹8,00,000",
+    "Must be a bonafide student enrolled in a Diploma, Degree, or Postgraduate Technical/Professional course in a government-recognized institution",
+    "Admission must be through Centralized Admission Process (CAP) — management quota or institute-level admissions are NOT eligible",
+    "Deemed Universities and Private Universities are NOT eligible",
+    "Student must not be receiving any other major government scholarship or stipend simultaneously",
+    "For renewal: student must have passed and been promoted to the next year; failure in any year = scholarship forfeiture until promotion",
+    "Course must be listed in the applicable GR for the relevant department (DTE/DHE/Agriculture/etc.)"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT)",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹8 lakh)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory — proof of CAP round admission)",
+    "College Admission Receipt / Fee Receipt for current academic year",
+    "Bonafide Certificate from the institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-seeded account for DBT)",
+    "Passport Size Photograph",
+    "EWS Certificate (if applicable — for EWS category students)",
+    "Caste Certificate confirming Open/General category (no reservation caste certificate)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, and bank details",
+    "Navigate to your relevant department — DTE (for Engineering/Pharmacy/Diploma), DHE (for Arts/Science/Commerce), or other applicable department",
+    "Select 'Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojana (EBC)' and click Apply",
+    "Fill in course details, institution details, CAP allotment details, and bank account information accurately",
+    "Upload all required documents in JPG/PDF format as specified",
+    "Review all details carefully and submit the application",
+    "Note the Application ID and track real-time status using Granular Application Tracking on MahaDBT portal",
+    "Applications for A.Y. 2025–26 are open from 30 June 2025 until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=uOkdRjJc_-4",
+    "https://www.youtube.com/watch?v=uDLF8b3gQqI",
+    "https://www.youtube.com/watch?v=G2XMz8TO9QY",
+    "https://www.youtube.com/watch?v=RgY1XxRR8bk"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "EBC Scheme Page (DTE — Engineering/Diploma)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA54D7A32E4C3B30A",
+    "EBC Scheme Page (DHE — Arts/Science/Commerce)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A7F4D327BDEB7125DE0BA4AE1C51180C272281017EBEF6F7C",
+    "EBC Scheme Page (Agriculture — DMAHER)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A4CECAB91C2B36920",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+    "Department of Technical Education Maharashtra": "https://dte.maharashtra.gov.in"
+  }
+}

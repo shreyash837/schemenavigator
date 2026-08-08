@@ -1,0 +1,88 @@
+{
+  "name": "Post-Matric Scholarship for SC/ST Students (Government of India)",
+
+  "des": "The Post-Matric Scholarship for SC/ST Students (GOI) is a Centrally Sponsored Scholarship Scheme funded by the Government of India and implemented in Maharashtra by two separate departments — the Department of Social Justice & Special Assistance (SJSA) for SC and Neo-Buddhist students, and the Tribal Development Department for ST students — through the MahaDBT portal. Launched under the Ministry of Social Justice & Empowerment (for SC) and Ministry of Tribal Affairs (for ST), it provides comprehensive financial assistance including 100% tuition fee reimbursement, examination fee reimbursement, and monthly maintenance allowance to eligible students pursuing post-matric education from Class 11 up to PhD level. For MBA students, the scheme falls under Group I (professional courses) which carries the highest maintenance allowance rate. Family income must not exceed ₹2,50,000 per annum. Benefits are disbursed in 2 installments via Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account. A student can avail benefits for a maximum of 2 professional courses in a lifetime under this scheme. Applications for A.Y. 2025–26 are open until 30 June 2026.",
+
+  "benefits": [
+    "100% reimbursement of Tuition Fees and all compulsory non-refundable fees charged by the institution",
+    "100% Examination Fee reimbursement",
+    "MBA falls under Group I (professional courses) — highest maintenance allowance slab",
+    "SC/Neo-Buddhist students — Group I Maintenance Allowance: Hostellers ₹1,200/month, Day Scholars ₹550/month (for 10 months)",
+    "ST students — Group I Maintenance Allowance: Hostellers ₹1,200/month, Day Scholars ₹550/month (same as SC)",
+    "Government hostellers not receiving books/stationery from hostel get additional 1/3rd of hosteller maintenance allowance",
+    "ST students — Additional Reader Allowance: Group I & II ₹240/month, Group III ₹200/month, Group IV ₹160/month",
+    "ST students — Escort Allowance: ₹160/month | Special Pay: ₹160/month",
+    "ST students — Study Tour: ₹1,600/annum | Thesis Typing/Printing: ₹1,600/annum | Book Grant: ₹1,200/annum",
+    "SC students — Additional Disability Allowance: Hostellers ₹800/month (₹9,600/year), Day Scholars ₹600/month (₹7,200/year) for Divyangjan students with certified disability",
+    "Maintenance allowance paid from date of admission to date of final examination — maximum 10 months per year",
+    "Benefits available for maximum 2 professional courses in a lifetime",
+    "Amount disbursed in 2 installments via DBT to Aadhaar-linked bank account"
+  ],
+
+  "criteria": [
+    "Applicant must belong to Scheduled Caste (SC), Neo-Buddhist, or Scheduled Tribe (ST) category as per government records",
+    "Applicant must be a permanent resident/domicile of Maharashtra",
+    "Annual family income from all sources must not exceed ₹2,50,000 — this is a strict GOI limit for full scholarship",
+    "Must have passed SSC (Class 10) or equivalent — post-matric level courses (Class 11 and above) only",
+    "For MBA: admission must be through MAH-MBA CET CAP round — management quota and institute-level admissions are NOT eligible",
+    "Institution must be a government-recognized college in Maharashtra (Private Deemed Universities are NOT eligible)",
+    "If student fails for the first time, only Exam Fee + Maintenance Allowance is provided for that year; tuition fee is not reimbursed",
+    "If student fails consecutively for 2 years in the same class, all benefits are suspended until the student passes and moves to the next year",
+    "Two consecutive back-to-back education gaps of 2 years make ST students ineligible to apply",
+    "Student must not be receiving any other major government scholarship simultaneously",
+    "Maximum 2 professional courses allowed in a lifetime under this scheme",
+    "For married girl students: husband's income certificate is also required in addition to parents' income"
+  ],
+
+  "required_documents": [
+    "SC/ST Caste Certificate issued by competent authority",
+    "Caste Validity Certificate",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹2.5 lakh)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory for MBA — proof of MAH-MBA CET CAP round admission)",
+    "Admission Receipt / Tuition Fee Receipt for current academic year",
+    "Bonafide Certificate from the MBA institute",
+    "Previous Year Marksheet (SSC, HSC, or last qualifying examination)",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Passport Size Photograph",
+    "Hostel Certificate (if staying in hostel — for higher hosteller allowance)",
+    "Husband Income Certificate (if married girl student)",
+    "Gap & Self-Declaration Certificate (if applicable)",
+    "Disability Certificate issued by competent medical authority (if applicable — for additional disability allowance)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, and bank details",
+    "For SC/Neo-Buddhist students: navigate to 'Social Justice & Special Assistance Department' → select 'Post Matric Scholarship Scheme (Government of India) for SC Students'",
+    "For ST students: navigate to 'Tribal Development Department' → select 'Post Matric Scholarship Scheme (Government of India) for ST Students'",
+    "Select MBA course under Group I — verify your institute is listed and eligible on MahaDBT",
+    "Fill in academic details, CAP allotment details, hostel/day scholar status, and bank account details accurately",
+    "Upload all required documents in JPG/PDF format as specified",
+    "Review all details carefully and submit before deadline",
+    "Note Application ID and track real-time status via Granular Application Tracking on MahaDBT portal",
+    "Ensure institute principal verifies your application on MahaDBT — unverified applications are rejected",
+    "Applications for A.Y. 2025–26 are open until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=Wv1GgKM-Nks",
+    "https://www.youtube.com/watch?v=b_GVkrPZiLU",
+    "https://www.youtube.com/watch?v=WQIKwnpo5jw",
+    "https://www.youtube.com/watch?v=dykdhqRVCR0"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "SC Post-Matric Scholarship Scheme Page (SJSA — MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51ACE99921E698B1EE85995B38445F14746E1B0DD7E66FFF88B",
+    "ST Post-Matric Scholarship Scheme Page (Tribal — MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A739268F02CEC37EC",
+    "Social Justice & Special Assistance Department Maharashtra (SJSA)": "https://sjsa.maharashtra.gov.in",
+    "Tribal Development Department Maharashtra": "https://tribal.maharashtra.gov.in",
+    "Ministry of Social Justice & Empowerment GOI": "https://socialjustice.gov.in",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login"
+  }
+}

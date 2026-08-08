@@ -1,0 +1,81 @@
+{
+  "name": "Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DTE)",
+
+  "des": "The Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (डॉ. पंजाबराव देशमुख वसतिगृह निर्वाह भत्ता योजना) is a hostel maintenance allowance scheme implemented by the Department of Higher and Technical Education, Government of Maharashtra, through the MahaDBT portal. It is available under multiple departments — DTE (for Engineering, MBA, MCA, Pharmacy, Diploma), DHE (for Arts, Science, Commerce), DMER (for Medical courses), and others. For MBA students, the scheme falls under DTE. It provides annual financial assistance to students belonging to Economically Backward Class (EBC), Economically Weaker Section (EWS), and Socially and Educationally Backward Classes (SEBC) who are studying in hostels or approved rented accommodation away from their hometown. Eligible student categories include children of Alpabhudharak Shetkari (Marginal Land Holders) or Registered Labourers, and students with family income up to ₹8,00,000. The allowance is disbursed for 10 months per academic year via Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account. Applications for A.Y. 2025–26 are open until 30 June 2026.",
+
+  "benefits": [
+    "Category A — Child of Registered Labour / Alpabhudharak Shetkari (Marginal Land Holder): For MBA institute in MMRDA/PMRDA/Aurangabad City/Nagpur City — ₹30,000 for 10 months (₹3,000/month)",
+    "Category A — Child of Registered Labour / Alpabhudharak Shetkari: For MBA institute in other Maharashtra areas — ₹20,000 for 10 months (₹2,000/month)",
+    "Category B — Annual family income up to ₹8,00,000 (EBC/EWS/SEBC): For MBA institute in MMRDA/PMRDA/Aurangabad City/Nagpur City — ₹10,000 for 10 months (₹1,000/month)",
+    "Category B — Annual family income up to ₹8,00,000 (EBC/EWS/SEBC): For MBA institute in other Maharashtra areas — ₹8,000 for 10 months (₹800/month)",
+    "Allowance paid for 10 months per academic year (vacation period excluded)",
+    "Applicable for students in hostel or approved rented accommodation away from hometown",
+    "Only first 2 children per family are eligible to avail the scheme",
+    "Amount disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account",
+    "Can be availed alongside the EBC tuition fee scholarship (Rajarshi Shahu Maharaj Scheme) simultaneously"
+  ],
+
+  "criteria": [
+    "Applicant must be a permanent resident/domicile of Maharashtra",
+    "Must be admitted to a recognized MBA/MCA/Engineering or other DTE professional course in a Government, Government Aided, or Permanent Unaided college under DTE Maharashtra",
+    "Admission must be through CAP (Centralized Admission Process — MAH-MBA CET CAP for MBA) — management quota and institute-level admissions are NOT eligible",
+    "Private Deemed Universities and Self-financed Private Universities are NOT eligible",
+    "Must belong to EBC, EWS, or SEBC category — Open (General) students qualify if family income ≤ ₹8,00,000; Alpabhudharak Shetkari/Registered Labour category has higher benefit slab",
+    "Student must be staying in a hostel or approved rented accommodation away from their hometown (hostel certificate or rent agreement mandatory)",
+    "Annual family income must not exceed ₹8,00,000 from all sources",
+    "Must have minimum 50% attendance in the previous semester (except freshly admitted students)",
+    "Only the first 2 children per family are eligible",
+    "Must not be receiving any other hostel maintenance allowance from any other government source simultaneously",
+    "Must pass every academic year to continue receiving benefits — failure suspends the allowance until promotion"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT)",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹8 lakh)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory — proof of MAH-MBA CET CAP round admission for MBA students)",
+    "Hostel Allotment Certificate / Hostel Bonafide from the MBA institute (if staying in hostel)",
+    "Rent Agreement (if staying in approved rented accommodation instead of hostel)",
+    "Admission Receipt / Fee Receipt for current academic year",
+    "Bonafide Certificate from the MBA institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Passport Size Photograph",
+    "Alpabhudharak Shetkari Certificate or Labour Registration Certificate (if parent is marginal farmer/registered labourer — for higher benefit slab)",
+    "Undertaking that only 2 family members are availing the scheme in the current year",
+    "EWS Certificate (if applicable)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, and bank details",
+    "Navigate to 'Directorate of Technical Education (DTE)' schemes list (for MBA/MCA students)",
+    "Select 'Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DTE)' and click Apply",
+    "Fill in hostel/accommodation details and MBA institute city accurately — allowance amount depends on city (MMRDA/PMRDA/Aurangabad/Nagpur vs other areas)",
+    "Select correct benefit category — Category A (Alpabhudharak/Labour) or Category B (income ≤ ₹8L)",
+    "Upload all required documents in JPG/PDF format",
+    "Review all details and submit the application",
+    "Note Application ID and track real-time status via Granular Application Tracking on MahaDBT portal",
+    "Applications for A.Y. 2025–26 open from 30 June 2025 until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026",
+    "Tip: This scheme can be applied simultaneously with EBC Tuition Fee Scholarship — apply for both to maximise benefits"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=dUbRD1he3aE",
+    "https://www.youtube.com/watch?v=PR4TGTKiQwg",
+    "https://www.youtube.com/watch?v=TSFY6EX2jrE",
+    "https://www.youtube.com/watch?v=SQVg-O9zoi0"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "Dr. Panjabrao Deshmukh Vasatigruh Scheme Page (DTE)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A3D30C2CB15631E4E31F4E2AFF5E4258B33E89887D583052E",
+    "Dr. Panjabrao Deshmukh Vasatigruh Scheme Page (DHE)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AEB31D461DD8183B67F07C60D4AAAA2026FB7F4DCFD673D35",
+    "DTE Official Scheme Page": "https://dte.maharashtra.gov.in/dr-panjabrao-deshmukh-vastigruh-nirvah-bhatta-yojna/",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+    "CET Cell Maharashtra (MAH-MBA CET CAP)": "https://cetcell.mahacet.org"
+  }
+}

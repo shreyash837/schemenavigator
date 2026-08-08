@@ -1,0 +1,77 @@
+{
+  "name": "Maharashtra Girls Tuition Fee Waiver Scheme (TFWS)",
+
+  "des": "Maharashtra mein girl students ke liye tuition fee waiver ke 2 alag schemes hain jo aksar ek saath confuse ki jaati hain. Pehli: Tuition Fee Waiver Scheme (TFWS) — introduced in 2007 by Ministry of HRD, implemented by DTE Maharashtra. Yeh ek supernumerary seat quota scheme hai jisme har AICTE-approved technical institution mein 5% extra seats allocated hoti hain jo eligible students ko 100% tuition fee waiver ke saath milti hain. Dusri: Girls Tuition & Examination Fee Waiver — GR dated 8 July 2024 ke under specifically girl students ke liye launched ki gayi, jisme OBC/EBC/Open sab categories ki girl students ko professional courses mein 100% Tuition Fee + Examination Fee reimbursement milta hai MahaDBT portal ke through. Dono schemes ka combined objective hai — Maharashtra mein girl students ke technical/professional education mein participation badhana aur financial barriers hatana.",
+
+  "benefits": [
+    "TFWS Scheme: 100% tuition fee waiver for the entire duration of the course (only tuition fee — other fees like development fee, exam fee, library fee, insurance must still be paid)",
+    "TFWS: 5% supernumerary seats per course in all AICTE-approved institutions (Government, Aided, and Unaided Private)",
+    "TFWS: Available for B.E./B.Tech, Pharmacy, MBA, MCA, Hotel Management, and other AICTE-approved UG/PG professional courses",
+    "Girls Fee Waiver (GR 8 July 2024): 100% Tuition Fee + Examination Fee reimbursement for girl students in professional courses",
+    "Girls Fee Waiver: 100% benefit for girl students in government/aided institutions in ALL professional courses",
+    "Girls Fee Waiver: Available to girl students of OBC, EBC, Open (General), EWS categories studying in professional courses through CAP",
+    "Girls Fee Waiver: Amount disbursed via DBT to Aadhaar-linked bank account through MahaDBT portal",
+    "Both schemes are applicable to girl students of Maharashtra state candidature (Type A to E)"
+  ],
+
+  "criteria": [
+    "Applicant must be a girl student and a Maharashtra state candidate (Domicile of Maharashtra — Type A to E candidature)",
+    "For TFWS: Annual family income must not exceed ₹8,00,000 from all sources",
+    "For TFWS: Must appear in MHT-CET (or relevant entrance exam) and obtain a non-zero score; TFWS seat must be selected as a choice during CAP option form filling",
+    "For TFWS: Applicable for 1st year of Engineering/Pharmacy/MBA/MCA/Hotel Management admitted through CAP round",
+    "For TFWS: TFWS seat is a supernumerary seat — it is filled only if minimum 30% of sanctioned intake is filled in the course through CAP",
+    "For TFWS: Once admitted under TFWS, branch change and institute change are NOT permitted",
+    "For Girls Fee Waiver (GR 8 Jul 2024): Must be a girl student belonging to OBC, EBC, or Open/General category",
+    "For Girls Fee Waiver: Admission must be through CAP round — Deemed University and management quota admissions are NOT eligible",
+    "For Girls Fee Waiver: Must pass every academic year to continue receiving benefits; fee not reimbursed in year of failure",
+    "Student must not be enrolled in a Deemed or Private University (for MahaDBT-based scheme)"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT in MahaDBT scheme)",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹8 lakh — for TFWS and Girls Fee Waiver both)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory proof of CAP round admission)",
+    "Admission Receipt / Fee Receipt for current academic year",
+    "Bonafide Certificate from the institute",
+    "Bank Passbook (Aadhaar-seeded account for DBT — for MahaDBT Girls Fee Waiver scheme)",
+    "Passport Size Photograph",
+    "MHT-CET Scorecard (for TFWS seat selection during CAP)",
+    "Category Certificate (OBC/EBC/EWS as applicable — for Girls Fee Waiver via MahaDBT)",
+    "Previous Year Marksheet (for renewal applicants)"
+  ],
+
+  "application_process": [
+    "--- FOR TFWS (CAP-based) ---",
+    "Step 1: Appear in MHT-CET (PCM/PCB group as applicable) and obtain non-zero score",
+    "Step 2: Register for CAP admission on the official CET Cell portal: https://fe2025.mahacet.org",
+    "Step 3: While filling the Option Form during CAP counselling, select TFWS seat codes as separate choices for your preferred colleges/courses",
+    "Step 4: TFWS seat allotment happens as part of CAP rounds — check allotment result on CET Cell portal",
+    "Step 5: Report to allotted institute with income certificate and other documents for document verification and admission confirmation",
+    "Step 6: Tuition fee waiver is automatically applied by the institution — no separate scholarship application needed",
+    "--- FOR GIRLS FEE WAIVER (MahaDBT-based) ---",
+    "Step 1: Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Step 2: Register with Aadhaar-linked mobile number and complete Applicant Profile",
+    "Step 3: Navigate to 'Reimbursement of tuition fee and examination fee for girls under Rajarshri Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme'",
+    "Step 4: Fill in academic details, institution, course, and bank details; upload all required documents",
+    "Step 5: Submit and track application status via Granular Application Tracking on MahaDBT"
+  ],
+
+  "official_portal": "https://fe2025.mahacet.org",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=JMKaD37Af6s",
+    "https://www.youtube.com/watch?v=_7FW2TH1M9M",
+    "https://www.youtube.com/watch?v=2K-4QffkKZk",
+    "https://www.youtube.com/watch?v=1DsgTFkR9GA"
+  ],
+
+  "official_links": {
+    "CET Cell Maharashtra (TFWS CAP Admissions)": "https://fe2025.mahacet.org",
+    "CET Cell Official Website": "https://cetcell.mahacet.org",
+    "Girls Tuition Fee Waiver — MahaDBT Scheme Page": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A861D18FEEFAC4F5F6568CABC51F37B2D8E783259DE953673",
+    "DTE Maharashtra Official Website": "https://dte.maharashtra.gov.in",
+    "DTE Girls Tuition Fee Waiver PDF (Official GR)": "https://dte.maharashtra.gov.in/wp-content/uploads/2024/08/Tutionfeewaiver_GirlStudents.pdf",
+    "MahaDBT Portal": "https://mahadbt.maharashtra.gov.in"
+  }
+}

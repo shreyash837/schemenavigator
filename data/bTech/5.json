@@ -1,0 +1,74 @@
+{
+  "name": "AICTE Pragati Scholarship for Girls",
+
+  "des": "The AICTE Pragati Scholarship Scheme is a central government initiative implemented by the All India Council for Technical Education (AICTE), Ministry of Education, aimed at empowering girl students pursuing technical education. The scheme provides annual financial assistance of ₹50,000 to meritorious girl students admitted to AICTE-approved institutions for Degree or Diploma level technical courses. The objective is to give young women the opportunity to advance their technical education and prepare for a successful career — 'Empowering Women through Technical Education'. A total of 10,000 scholarships are awarded annually. State-wise distribution is based on proportionate share of AICTE-approved degree seats, with a minimum of 50 and maximum of 800 scholarships per state/UT. For 13 Union Territories and North-Eastern states, all eligible girl applicants who submit a valid online form receive the scholarship. Amount is disbursed as a lump sum annually via Direct Benefit Transfer (DBT).",
+
+  "benefits": [
+    "₹50,000 per annum as lump sum for every year of study",
+    "For Degree students: scholarship available for up to 4 years",
+    "For Diploma students: scholarship available for up to 3 years",
+    "For Lateral Entry (2nd year direct admission): up to 3 years for degree, up to 2 years for diploma",
+    "Amount can be used for college fees, books, stationery, laptops, computers, software, and equipment",
+    "No additional grants for hostel charges or medical expenses",
+    "10,000 scholarships awarded annually across India",
+    "All eligible girls from 13 UTs and North-Eastern states receive scholarship automatically (no merit cutoff)",
+    "Scholarship renewable annually on successful academic progression",
+    "Amount disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account"
+  ],
+
+  "criteria": [
+    "Applicant must be a girl student (only female candidates eligible)",
+    "Must be admitted to 1st year of a full-time technical Degree or Diploma course at an AICTE-approved institution through the Centralized Admission Process (CAP) of State/Central Government",
+    "Lateral entry students admitted directly to 2nd year of Degree/Diploma are also eligible",
+    "Annual family income from all sources must not exceed ₹8,00,000 (for married applicants: income of parents or in-laws, whichever is higher, is considered)",
+    "Maximum 2 girl children per family are eligible to avail this scholarship",
+    "Student must not be receiving any other Central/State government or AICTE-sponsored scholarship simultaneously",
+    "Institution must be AICTE-approved and the course must be a recognized technical Degree or Diploma programme",
+    "Only full-time courses are eligible — part-time, distance, or correspondence courses are NOT eligible",
+    "For renewal: student must pass and be promoted to the next year — failure to promote results in forfeiture of scholarship"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT; alternatives: Voter ID, Driving License, PAN, Passport)",
+    "Annual Income Certificate from competent government authority (family income ≤ ₹8 lakh)",
+    "Admission Proof / Enrollment Certificate from AICTE-approved institution",
+    "Class 12th Marksheet and Passing Certificate (for degree course applicants)",
+    "Class 10th Marksheet and Passing Certificate (for diploma course applicants)",
+    "Fee Receipt for current academic year",
+    "Bank Passbook or Cancelled Cheque (Aadhaar-linked account, with applicant's name and IFSC code)",
+    "Passport Size Photograph (digital format)",
+    "Digital Signature",
+    "Caste Certificate (if applicable)",
+    "For renewal: Previous year Marksheet and Passing Certificate, verification letter from Head of Institution"
+  ],
+
+  "application_process": [
+    "Visit the National Scholarship Portal (NSP): https://scholarships.gov.in",
+    "Complete One-Time Registration (OTR) with Aadhaar-linked mobile number and face authentication via OTR mobile app",
+    "Login to NSP and click on 'Apply for Scholarship'",
+    "Select 'AICTE Pragati Scholarship Scheme for Girls' under AICTE schemes",
+    "Fill in personal details, academic details (course, institution, admission year), and bank account details",
+    "Upload all required documents in .jpg, .pdf, or .png format within specified file size limits",
+    "Review all details carefully and submit before the deadline (typically October 31 each year)",
+    "Application is reviewed by your institution and then the State/UT Technical Education Department",
+    "Approved candidates list is published on the AICTE portal — track status using Application ID on NSP",
+    "For renewal each year: submit renewal form with previous year marksheet and Head of Institution verification letter on NSP"
+  ],
+
+  "official_portal": "https://www.aicte-india.org",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=gNOmrCFNRtU",
+    "https://www.youtube.com/watch?v=9Q82X7h6Pc4",
+    "https://www.youtube.com/watch?v=yihd7p0e_7M",
+    "https://www.youtube.com/watch?v=-5Oz2OsB82Y"
+  ],
+
+  "official_links": {
+    "AICTE Pragati Scholarship Official Page": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati/General-Instructions",
+    "AICTE Pragati Application Portal": "https://aicte-pragati-saksham-gov.in",
+    "National Scholarship Portal (NSP)": "https://scholarships.gov.in",
+    "NSP Applicant Login": "https://scholarships.gov.in/fresh/loginPage",
+    "AICTE Official Website": "https://www.aicte-india.org"
+  }
+}

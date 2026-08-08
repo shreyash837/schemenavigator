@@ -1,0 +1,86 @@
+{
+  "name": "Dr. Ambedkar Post-Matric Scholarship for EBC Students",
+
+  "des": "The Dr. Ambedkar Post-Matric Scholarship for EBC Students is a Maharashtra Government scheme implemented through the Directorate of Technical Education (DTE) and MahaDBT portal for students belonging to the Economically Backward Class (EBC) category. The scheme provides reimbursement of 50% of Tuition Fee and 50% of Development Fee to eligible students pursuing professional and technical courses including MBA, MMS, MCA, Engineering, Pharmacy, Architecture, Hotel Management, and other AICTE-approved programs. The objective of the scheme is to reduce the financial burden on economically weaker students from the Open category and enable them to continue higher education. Family income must not exceed ₹8,00,000 per annum. Benefits are disbursed through Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account after institute and department verification. MBA students admitted through MAH-MBA CET CAP rounds are eligible under this scheme.",
+
+  "benefits": [
+    "50% reimbursement of approved Tuition Fee",
+    "50% reimbursement of approved Development Fee",
+    "Applicable to MBA, MMS, MCA, Engineering, Pharmacy, Architecture, Hotel Management and other professional courses",
+    "Benefit is calculated on fees approved by the Fee Regulating Authority (FRA)",
+    "Available for students studying in Government, Government-Aided and eligible Private Unaided institutions",
+    "Scholarship amount is transferred directly to the student's Aadhaar-linked bank account through DBT",
+    "Benefit is available throughout the duration of the course subject to annual renewal",
+    "Students can continue receiving benefits in subsequent years after passing and renewing the application",
+    "No separate maintenance allowance is provided under this scheme",
+    "No hostel allowance is provided under this scheme",
+    "Maximum benefit is limited to 50% of Tuition Fee and 50% of Development Fee approved by the competent authority",
+    "MBA students admitted through CAP are eligible under the professional course category"
+  ],
+
+  "criteria": [
+    "Applicant must be a domicile of Maharashtra",
+    "Applicant must belong to the Economically Backward Class (EBC) category",
+    "Annual family income from all sources must not exceed ₹8,00,000",
+    "Student must be admitted through the Centralized Admission Process (CAP)",
+    "MBA admission should be through MAH-MBA CET CAP rounds",
+    "Management Quota admissions are not eligible",
+    "Institute-level admissions are generally not eligible unless covered under government guidelines",
+    "Applicant must be studying in a recognized institution approved by the Government of Maharashtra",
+    "Student must not be receiving any other fee reimbursement scholarship for the same educational purpose",
+    "Applicant must possess an Aadhaar-linked bank account",
+    "Student must maintain satisfactory academic progress for renewal",
+    "Student must remain enrolled in the approved course for which scholarship is sanctioned"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card",
+    "Maharashtra Domicile Certificate",
+    "Income Certificate issued by competent authority (family income ≤ ₹8,00,000)",
+    "EBC Certificate / Self Declaration as prescribed",
+    "CAP Allotment Letter",
+    "Admission Confirmation Letter",
+    "Current Academic Year Fee Receipt",
+    "Bonafide Certificate from Institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-linked account)",
+    "Passport Size Photograph",
+    "Institute Identity Card (if available)",
+    "Fee Structure approved by FRA/Competent Authority"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register using Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic and bank account details",
+    "Navigate to Directorate of Technical Education (DTE) schemes section",
+    "Select 'Dr. Ambedkar Post-Matric Scholarship for EBC Students'",
+    "Select MBA course and enter institute details",
+    "Enter CAP allotment details and admission information accurately",
+    "Upload all required documents in JPG/PDF format",
+    "Verify fee details and personal information carefully",
+    "Submit the application online",
+    "Note the Application ID for future reference",
+    "Track application status through MahaDBT Granular Application Tracking",
+    "Ensure institute verification is completed before the application deadline",
+    "Renew the application every academic year to continue receiving benefits"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=Wv1GgKM-Nks",
+    "https://www.youtube.com/watch?v=PMTj7RgPL8E",
+    "https://www.youtube.com/watch?v=b_GVkrPZiLU",
+    "https://www.youtube.com/watch?v=WQIKwnpo5jw"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "Dr. Ambedkar Post-Matric Scholarship for EBC Students (MahaDBT)": "https://mahadbt.maharashtra.gov.in",
+    "Directorate of Technical Education Maharashtra": "https://dtemaharashtra.gov.in",
+    "Fee Regulating Authority Maharashtra": "https://www.mahafra.org",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+    "Government of Maharashtra": "https://maharashtra.gov.in"
+  }
+}

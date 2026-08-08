@@ -1,0 +1,81 @@
+{
+  "name": "Maharashtra Bandhkam Kamgar Yojana",
+
+  "des": "The Maharashtra Bandhkam Kamgar Yojana (बांधकाम कामगार योजना) is a comprehensive social security and welfare scheme administered by the Maharashtra Building and Other Construction Workers Welfare Board (MAHABOCW) under the Labour Department, Government of Maharashtra. Established on 1 May 2011 under the Building and Other Construction Workers (BOCW) Act 1996, the board provides financial, educational, medical, and social welfare benefits to registered construction workers (बांधकाम कामगार) and their families. Workers covered include masons, helpers, electricians, plumbers, painters, carpenters, tile workers, scaffolding workers, and others employed at registered construction sites in Maharashtra. As of April 2025, the scheme has benefited over 14.55 lakh workers with disbursements exceeding ₹2,146 crore. Registration, renewal, scholarship applications, and claims are all processed through the official MAHABOCW portal. The 2024–25 cycle has been extended with registration and renewal dates valid until 31 December 2026.",
+
+  "benefits": [
+   "Educational Assistance (E04): ₹20,000/year for children pursuing Graduation or Diploma courses",
+    "Engineering Degree Scholarship (E06): ₹60,000 for Engineering Degree students",
+    "Foreign Higher Education Scholarship: ₹50,000 (one-time) for Master's/PhD abroad with 60%+ in previous exam",
+    "Sports Scholarship: For children who have participated at State, National, or International level sports",
+    "Accidental Death Benefit (F01): ₹5,00,000 financial assistance to family",
+    "Natural Death Benefit (F02): ₹2,00,000 financial assistance to family",
+    "Disability Benefit (H04): ₹2,00,000 for permanent disability due to accident",
+    "Direct Benefit Transfer (DBT) for all applicable benefits to Aadhaar-linked bank account"
+  ],
+
+  "criteria": [
+    "Worker must be a permanent resident of Maharashtra (domicile proof mandatory)",
+    "Worker's age must be between 18 and 60 years",
+    "Must have worked at a construction site for a minimum of 90 days in the preceding 12 months (90-day work certificate required from contractor or MAHABOCW district office)",
+    "Registration with MAHABOCW is compulsory — all benefits require an active, renewed registration",
+    "Annual registration renewal is mandatory to continue receiving benefits",
+    "For education scholarships: only the first two children of the registered worker are eligible",
+    "For E01 scholarship: child must maintain minimum 75% attendance in previous academic year",
+    "For E02 scholarship: child must score 50% or more in Class 10 or Class 12 board exams",
+    "For Foreign Education Scholarship: child must have 60%+ marks and be pursuing Master's or PhD abroad",
+    "Child must be enrolled in a government-recognized school or college",
+    "Worker must not have a gap of registration lapse — renewal ensures continued eligibility",
+    "Note (2026 update): Since February 5, 2025, data entry at taluka facilitation centres is discontinued — all registration and claims must be done online via mahabocw.in"
+  ],
+
+  "required_documents": [
+    "MAHABOCW Construction Worker Registration Card (mandatory for all benefits)",
+    "Aadhaar Card of worker and child",
+    "Residence/Domicile Proof of Maharashtra",
+    "90-Day Work Certificate signed by contractor (or Form-E if contractor refuses)",
+    "Age Proof (Birth Certificate / School Leaving Certificate)",
+    "Income Certificate (if applicable for specific schemes)",
+    "Bank Passbook (Aadhaar-linked account for DBT) — in name of worker or child",
+    "Passport Size Photograph of worker and child",
+    "Student Bonafide Certificate from school/college",
+    "Previous Year Marksheet of student",
+    "Attendance Certificate (minimum 75% — for E01 scholarship)",
+    "75% Attendance Certificate from school/college (for scholarship renewal)",
+    "Marriage Certificate (for marriage assistance scheme)",
+    "Death Certificate and FIR copy (for accidental death benefit)",
+    "Educational Self-Declaration Form in new 2026 format (mandatory from January 2026 — old format applications are auto-rejected)"
+  ],
+
+  "application_process": [
+    "Visit the official MAHABOCW portal: https://mahabocw.in",
+    "Worker Registration: Click 'Worker Registration', enter Aadhaar-linked mobile number, complete OTP verification and fill in personal and work details",
+    "Upload 90-day work certificate signed by contractor and all required documents",
+    "Book a verification appointment at your nearest MAHABOCW district office (mandatory step post-registration)",
+    "Once registration is approved, login to portal and navigate to 'Schemes / Benefits'",
+    "Select the applicable scheme (education, marriage, medical, etc.) under your worker profile",
+    "For scholarship: fill in child's academic details, upload Bonafide Certificate, marksheet, and attendance certificate",
+    "Use the new 2026 Educational Self-Declaration format (available on mahabocw.in) — old format applications are auto-rejected",
+    "Submit the application and note the Application/Claim ID",
+    "Track application status online at mahabocw.in using registration number and district",
+    "Annual renewal of worker registration is mandatory — do not allow registration to lapse or all benefits stop"
+  ],
+
+  "official_portal": "https://mahabocw.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=gPOe4ADa6R8",
+    "https://www.youtube.com/watch?v=uZz7tiJ9uHs",
+    "https://www.youtube.com/watch?v=DxrR9bXbjF4",
+    "https://www.youtube.com/watch?v=HRm9q-D4oFc"
+  ],
+
+  "official_links": {
+    "MAHABOCW Official Portal": "https://mahabocw.in",
+    "MAHABOCW Marathi Portal": "https://mahabocw.in/mr/",
+    "Worker Registration Page": "https://mahabocw.in/registration/",
+    "Scholarship Application Page": "https://iwbms.mahabocw.in",
+    "Scheme Benefits List (Official PDF)": "https://mahabocw.in/wp-content/uploads/2022/11/District-wise-total-registrations-and-active-workers.pdf",
+    "Maharashtra Labour Department": "https://labour.maharashtra.gov.in"
+  }
+}

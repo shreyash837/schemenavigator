@@ -1,0 +1,84 @@
+{
+  "name": "Post-Matric Scholarship for Students with Disabilities",
+
+  "des": "The Post-Matric Scholarship for Students with Disabilities is a state government scheme implemented by the Department of Social Justice & Special Assistance (SJSA), Government of Maharashtra, through the MahaDBT portal. It provides comprehensive financial assistance — including tuition fees, examination fees, and monthly maintenance allowance — to students with 40% or more disability pursuing post-matric education from Class 11 up to PhD level. The scheme covers ALL categories of students regardless of caste/religion — Open, OBC, SC, ST, SEBC, Minority — as long as the student has a certified physical disability of 40% or above. MBA falls under Group A (Management/Business/Finance Administration courses), which carries the highest maintenance allowance. Income limit is ₹2,50,000 per annum. No other concurrent scholarship is allowed except the Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship. Benefits are disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account. Applications for A.Y. 2025–26 are open until 30 June 2026.",
+
+  "benefits": [
+    "MBA falls under Group A — Monthly Maintenance Allowance: Hostellers ₹1,200/month, Day Scholars ₹550/month (for max 10 months)",
+    "100% reimbursement of all mandatory compulsory fees — Tuition Fees, Examination Fees, and other compulsory payable fees",
+    "Group A failure rule: If student fails 1st time, scholarship may continue; if fails 2nd time during entire course duration, scholarship cancelled",
+    "Blind students — Additional Vachak Bhatta: Group A, B, C ₹100/month, Group D ₹75/month, Group E ₹50/month",
+    "Hearing Impaired students — Transportation Allowance up to ₹100/month (for students residing outside hostel campus)",
+    "Locomotor Disability — Transportation Allowance up to ₹100/month",
+    "Mental Retardation/Mental Illness — Transportation ₹100/month + Escort Allowance ₹100/month + Special Pay ₹100/month + Extra Coaching ₹150/month",
+    "Government hostellers not receiving books/stationery from hostel eligible for additional 1/3rd of hosteller maintenance allowance",
+    "Distance education students: ₹500/annum for books and material purchase (non-refundable fees covered separately)",
+    "MPhil and PhD students: maintenance allowance at postgraduate Group A, B, C rates",
+    "Project typing expense up to ₹600/annum for students",
+    "Scholarship covers full duration of course via DBT to Aadhaar-linked bank account"
+  ],
+
+  "criteria": [
+    "Student must have a physical disability of 40% or above — certified by a government medical board or competent authority",
+    "Disability Certificate must be issued by a government-authorized medical authority — private hospital certificates NOT accepted",
+    "Student must be a permanent resident/domicile of Maharashtra",
+    "Annual parental/guardian income must not exceed ₹2,50,000 from all sources",
+    "Employed students: income of student combined with parents must not exceed ₹2,50,000 (eligible for fee reimbursement only)",
+    "Must be studying in a government-recognized university or institution in Maharashtra (or outside Maharashtra if domicile of Maharashtra)",
+    "For MBA: admission through MAH-MBA CET CAP round — management quota admissions not mentioned as restriction but CAP-admitted students are clearly covered",
+    "MBA (Management/Business/Finance Administration) falls under Group A — highest benefit slab",
+    "Scholarship applicable only once per stage: progressive format — e.g., after completing UG, PG MBA is a new eligible course",
+    "If student fails or withdraws from the course applied for (Group B/C/D/E), scholarship cancelled for that course",
+    "For Group A (MBA): 1 failure allowed; 2nd failure = permanent cancellation of scholarship",
+    "Full-time employed students are NOT eligible",
+    "Can only apply for Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship concurrently — no other scholarship allowed simultaneously"
+  ],
+
+  "required_documents": [
+    "Disability Certificate issued by government-authorized medical authority (must specify type and percentage of disability — minimum 40%)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Maharashtra Domicile Certificate",
+    "Annual Income Certificate from Tehsildar/SDO (parental income ≤ ₹2.5 lakh)",
+    "CAP Allotment Letter (for MBA admitted through MAH-MBA CET CAP round)",
+    "Admission Receipt / Tuition Fee Receipt for current academic year",
+    "Bonafide Certificate from the MBA institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Passport Size Photograph",
+    "Hostel Certificate (if staying in hostel — for hosteller maintenance rate)",
+    "Self-Declaration that student is not receiving any other government scholarship (except Rajarshi Merit Scholarship)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, disability, and bank details",
+    "Navigate to 'Social Justice & Special Assistance Department' schemes list",
+    "Select 'Post-Matric Scholarship for Persons with Disability' and click Apply",
+    "Select Course Group A for MBA (Management/Business/Finance Administration courses)",
+    "Fill in disability details, MBA institute details, CAP allotment information, and hostel/day scholar status accurately",
+    "Upload Disability Certificate, Income Certificate, and all required documents in JPG/PDF format",
+    "Review all details carefully and submit the application",
+    "Note Application ID and track real-time status via Granular Application Tracking on MahaDBT portal",
+    "Ensure institute principal verifies your application on MahaDBT — unverified applications are rejected",
+    "Applications for A.Y. 2025–26 open until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=Wv1GgKM-Nks",
+    "https://www.youtube.com/watch?v=b_GVkrPZiLU",
+    "https://www.youtube.com/watch?v=Z31B7Q-q2GM",
+    "https://www.youtube.com/watch?v=BXMvb-qN9xc"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "Post-Matric Scholarship for Persons with Disability — MahaDBT Scheme Page": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A054A8D0DAA702B64",
+    "Social Justice & Special Assistance Department Maharashtra (SJSA)": "https://sjsa.maharashtra.gov.in",
+    "Persons with Disabilities Welfare Dept Maharashtra (Divyang Kalyan)": "https://divyangkalyan.maharashtra.gov.in",
+    "Official Scheme Details Page (Divyang Kalyan)": "https://divyangkalyan.maharashtra.gov.in/en/scheme/2-post-matric-scholarship-for-students-with-disabilities/",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login"
+  }
+}

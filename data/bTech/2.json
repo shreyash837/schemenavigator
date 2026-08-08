@@ -1,0 +1,82 @@
+{
+  "name": "Post-Matric Scholarship for SC/ST Students",
+
+  "des": "The Post-Matric Scholarship for SC/ST Students is a centrally sponsored, state-implemented scholarship scheme administered by the Department of Social Justice & Special Assistance (for SC/Neo-Buddhist students) and the Tribal Development Department (for ST students), Government of Maharashtra. It provides financial assistance — including tuition fees, examination fees, maintenance allowance, and additional disability allowances — to Scheduled Caste (SC), Neo-Buddhist, and Scheduled Tribe (ST) students pursuing education after Class 10. Benefits are disbursed in 2 installments directly to the student's Aadhaar-seeded bank account via Direct Benefit Transfer (DBT) through the MahaDBT portal. Students can avail benefits for a maximum of 2 professional courses under this scheme.",
+
+  "benefits": [
+    "Full reimbursement of Tuition Fees, Examination Fees, and all mandatory/compulsory payable fees to the institution",
+    "Monthly Maintenance Allowance for SC/Neo-Buddhist students — Group I: Hostlers ₹1,200/month, Day Scholars ₹550/month",
+    "Monthly Maintenance Allowance for SC/Neo-Buddhist students — Group II: Hostlers ₹820/month, Day Scholars ₹530/month",
+    "Monthly Maintenance Allowance for SC/Neo-Buddhist students — Group III: Hostlers ₹570/month, Day Scholars ₹300/month",
+    "Monthly Maintenance Allowance for SC/Neo-Buddhist students — Group IV: Hostlers ₹380/month, Day Scholars ₹230/month",
+    "Monthly Maintenance Allowance for ST students — Group 1: Hostlers ₹1,200/month, Day Scholars ₹550/month (same group-wise structure)",
+    "Additional allowances for ST students: Reader Allowance (Group 1-2: ₹240/month, Group 3: ₹200/month, Group 4: ₹160/month)",
+    "Additional ST allowances: Escort Allowance ₹160/month, Special Pay ₹160/month",
+    "Additional ST allowances: Study Tours ₹1,600/annum, Thesis Typing/Printing ₹1,600/annum, Book Grant ₹1,200/annum",
+    "Disability allowances for SC students with physical disabilities (type-wise as per GR) — e.g., Blindness/Low Vision: Group I & II ₹150/month",
+    "Maintenance allowance disbursed for a maximum of 10 months per academic year",
+    "Benefits credited in 2 installments via DBT to Aadhaar-seeded bank account",
+    "Students can avail benefits for a maximum of 2 professional courses under this scheme"
+  ],
+
+  "criteria": [
+    "Student must belong to SC, Neo-Buddhist, or ST category (as per government records)",
+    "Student must be a permanent resident/domicile of Maharashtra",
+    "For SC/Neo-Buddhist students: annual family income must not exceed ₹2,50,000 from all sources",
+    "For ST students: annual family income must not exceed ₹2,50,000 from all sources",
+    "Student must have passed SSC (Class 10) or equivalent matriculation examination",
+    "Student must be pursuing a government-recognized post-matric course (Class 11 onwards)",
+    "For professional courses: admission must be through CAP (Centralized Admission Process) round",
+    "Institute must be located in Maharashtra and recognized by the government",
+    "If student fails in a year, benefits are provided for that year only; suspended until promotion to next class",
+    "For ST students: a continuous study gap of 2 back-to-back years disqualifies the student from applying",
+    "Student must not be receiving any other major scholarship or stipend simultaneously",
+    "Students with 40% or more disability can avail scholarship irrespective of income limits"
+  ],
+
+  "required_documents": [
+    "SC/ST Caste Certificate issued by competent authority",
+    "Caste Validity Certificate",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹2,50,000)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Maharashtra Domicile Certificate",
+    "Admission Receipt / Fee Receipt for current academic year",
+    "Bonafide Certificate from the institute",
+    "Previous Year Marksheet (SSC/HSC or last qualifying examination)",
+    "Bank Passbook (Aadhaar-seeded account for DBT)",
+    "Passport Size Photograph",
+    "CAP Allotment Letter (mandatory for professional course applicants only)",
+    "Disability Certificate (if applicable, for additional disability allowance)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal and academic details",
+    "For SC/Neo-Buddhist students: navigate to 'Social Justice & Special Assistance Department' schemes",
+    "For ST students: navigate to 'Tribal Development Department' schemes",
+    "Select 'Post Matric Scholarship Scheme (Government of India)' for your respective category",
+    "Fill in academic details, institute name, course group, and admission details accurately",
+    "Upload all required documents in specified format (JPG/PDF)",
+    "Review all details carefully and submit the application",
+    "Note down Application ID and track real-time status via Granular Application Tracking on MahaDBT portal"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=PMTj7RgPL8E",
+    "https://www.youtube.com/watch?v=6pn9PAJYA8A",
+    "https://www.youtube.com/watch?v=dykdhqRVCR0",
+    "https://www.youtube.com/watch?v=WQIKwnpo5jw"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "SC Post-Matric Scholarship Scheme Page (MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51ACE99921E698B1EE85995B38445F14746E1B0DD7E66FFF88B",
+    "ST Post-Matric Scholarship Scheme Page (MahaDBT)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A739268F02CEC37EC",
+    "Social Justice & Special Assistance Department Maharashtra": "https://sjsa.maharashtra.gov.in",
+    "Tribal Development Department Maharashtra": "https://tribal.maharashtra.gov.in",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login"
+  }
+}

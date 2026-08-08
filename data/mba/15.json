@@ -1,0 +1,76 @@
+{
+  "name": "AICTE Pragati Scholarship Scheme",
+
+  "des": "The AICTE Pragati Scholarship Scheme is a flagship initiative by the All India Council for Technical Education (AICTE), Ministry of Education, Government of India, exclusively for girl students pursuing technical education in AICTE-approved institutions. The scheme's tagline is 'Empowering Women through Technical Education'. It provides ₹50,000 per annum to meritorious girl students admitted to the 1st year of AICTE-approved Degree (UG/PG) or Diploma technical courses — this includes MBA, as MBA is a technical degree course approved by AICTE. A total of 10,000 scholarships are awarded annually — 5,000 for Degree level and 5,000 for Diploma level — distributed across 23 States/UTs based on proportionate share of AICTE-approved seats; for remaining 13 States/UTs and North-Eastern states all eligible girl students automatically receive the scholarship. Applications are submitted through the National Scholarship Portal (NSP) and the AICTE Pragati-Saksham portal. The deadline is typically October 31 each year. Amount is disbursed as a lump sum via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account.",
+
+  "benefits": [
+    "₹50,000 per annum as lump sum for every year of study (MBA: up to 2 years for 1st year admitted students)",
+    "For lateral entry (2nd year direct admission to MBA): up to 1 year",
+    "Amount usable for college fees, books, stationery, laptops, computers, software, and other educational equipment",
+    "No separate grants for hostel fees or medical expenses",
+    "5,000 Degree-level scholarships awarded annually across India",
+    "SC/ST/OBC reservation within the 5,000 quota: SC 15%, ST 7.5%, OBC 27% as per GOI norms",
+    "For 13 UTs and North-Eastern states: all eligible girl applicants receive scholarship (no merit cutoff)",
+    "Scholarship renewable annually on successful promotion to next year — renewal via NSP with Promotion Certificate",
+    "Amount disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account"
+  ],
+
+  "criteria": [
+    "Applicant must be a female Indian citizen (only girl students eligible)",
+    "Must be admitted to 1st year of a full-time AICTE-approved technical Degree programme — includes MBA, MCA, B.E./B.Tech, B.Pharm etc. — at an AICTE-approved institution",
+    "Lateral entry students admitted to 2nd year are also eligible",
+    "Admission must be through Centralised Admission Process (CAP) of State/Central Government — management quota admissions are NOT eligible",
+    "Annual family income must not exceed ₹8,00,000 (for married applicants: income of parents or in-laws, whichever is higher)",
+    "Maximum 2 girl children per family can avail this scholarship",
+    "Institution must be AICTE-approved with valid AISHE code",
+    "Only full-time courses are eligible — part-time and distance courses are NOT eligible",
+    "Must not be receiving any other Central/State Government or AICTE-sponsored scholarship simultaneously — if already receiving any GOI scholarship, NOT eligible",
+    "If student fails or drops out in any subsequent year, she will NOT be eligible for further scholarship renewal",
+    "3rd year or later applicants are NOT eligible — only 1st year (or lateral entry 2nd year) fresh applicants"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT)",
+    "Annual Income Certificate from competent government authority (family income ≤ ₹8 lakh)",
+    "Admission Letter issued by Directorate of Technical Education / CAP allotment proof for MBA",
+    "Previous qualifying exam Marksheet (Graduation marksheet for MBA applicants)",
+    "Fee Receipt for current academic year",
+    "Bank Passbook or Cancelled Cheque (Aadhaar-linked General Savings account — FRILL/Minor/Joint accounts NOT accepted)",
+    "Passport Size Photograph (digital format)",
+    "Bonafide Certificate / Certificate from Principal/Director of MBA institute",
+    "Caste Certificate (if applicable — for SC 15% / ST 7.5% / OBC 27% reserved quota within Pragati)",
+    "For renewal: Promotion Certificate duly certified by Head of Institution"
+  ],
+
+  "application_process": [
+    "Visit the AICTE Pragati-Saksham portal: https://aicte-pragati-saksham-gov.in (primary portal — NOT scholarships.gov.in)",
+    "Click 'New Registration' and complete registration with Aadhaar number, mobile number, email ID, and bank details",
+    "After registration, login using Application ID and password received on registered mobile",
+    "Select 'AICTE Pragati Scholarship Scheme for Girls' under Degree level",
+    "Fill in personal details, MBA course details, institution AISHE code, family income details, and bank account details",
+    "Upload all required documents in specified format (JPG/PDF within size limits)",
+    "Verify all details and submit before the deadline (typically October 31 each year)",
+    "For any issues contact: pragati@aicte-india.org or helpdesk@nsp.gov.in or call 011-29581118",
+    "For renewal each year: login to portal and submit renewal form with Promotion Certificate certified by Head of Institution",
+    "Track application and merit list status on the AICTE Pragati-Saksham portal"
+  ],
+
+  "official_portal": "https://aicte-pragati-saksham-gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=gNOmrCFNRtU",
+    "https://www.youtube.com/watch?v=9Q82X7h6Pc4",
+    "https://www.youtube.com/watch?v=yihd7p0e_7M",
+    "https://www.youtube.com/watch?v=-5Oz2OsB82Y"
+  ],
+
+  "official_links": {
+    "AICTE Pragati-Saksham Application Portal (Primary)": "https://aicte-pragati-saksham-gov.in",
+    "AICTE Pragati Scholarship Official Page": "https://www.aicte-india.org/schemes/students-development-schemes/Pragati/General-Instructions",
+    "AICTE Pragati Official Guidelines PDF": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf",
+    "National Scholarship Portal (NSP)": "https://scholarships.gov.in",
+    "NSP Applicant Login": "https://scholarships.gov.in/fresh/loginPage",
+    "AICTE Official Website": "https://www.aicte-india.org",
+    "AICTE Helpdesk Email": "pragati@aicte-india.org"
+  }
+}

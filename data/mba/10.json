@@ -1,0 +1,77 @@
+{
+  "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)",
+
+  "des": "The Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC) — commonly known as the EBC Scholarship — is a Maharashtra Government scheme implemented by multiple departments including the Directorate of Technical Education (DTE), Directorate of Higher Education (DHE), Directorate of Medical Education & Research (DMER), and others through the MahaDBT portal. It provides tuition fee and examination fee reimbursement to students from the Open (General) category belonging to Economically Backward Class (EBC) or Economically Weaker Section (EWS), pursuing professional and non-professional courses after Class 10. For MBA/MCA students, the scheme is implemented under DTE Maharashtra. For male students: family income up to ₹2.5 lakh — 100% professional course fees; ₹2.5 to ₹8 lakh — 50% professional course fees; up to ₹8 lakh — 100% non-professional course fees. For girl students: 100% Tuition Fee + Exam Fee for all professional courses at all institution types as per GR dated 8 July 2024. Benefits are disbursed in 2 installments via Direct Benefit Transfer (DBT) to Aadhaar-seeded bank account.",
+
+  "benefits": [
+    "Male students with family income up to ₹2,50,000 — 100% Tuition Fee + Examination Fee reimbursement for professional courses (including MBA/MCA)",
+    "Male students with family income between ₹2,50,001 and ₹8,00,000 — 50% Tuition Fee + 50% Examination Fee reimbursement for professional courses",
+    "All students (any gender) with family income up to ₹8,00,000 — 100% Tuition Fee + Exam Fee for non-professional courses (B.A., B.Sc., B.Com etc.)",
+    "Girl students (GR 8 July 2024) — 100% Tuition Fee + Examination Fee for ALL professional courses at government, aided, AND unaided private institutions",
+    "For MBA/MCA students: scheme implemented under DTE Maharashtra — fee reimbursement as per Fee Regulation Authority approved fee structure",
+    "For students in government/aided colleges in professional courses — fee reimbursed as per government approved fee structure",
+    "For students in unaided private colleges in professional courses — fee reimbursed only as per government aided college fee structure (not actual unaided fees)",
+    "Deemed University admissions are NOT covered — no benefit for students admitted to Deemed Universities",
+    "Benefits disbursed in 2 installments via DBT to Aadhaar-linked bank account",
+    "Applications for A.Y. 2025–26 open from 30 June 2025 until 30 June 2026"
+  ],
+
+  "criteria": [
+    "Applicant must be an Indian citizen and permanent resident/domicile of Maharashtra",
+    "Applicant must belong to Open (General) category — EBC or EWS only",
+    "OBC, SC, ST, NT, SEBC, VJNT category students are NOT eligible (they have separate dedicated schemes)",
+    "For professional courses (MBA/MCA/Engineering etc.): annual family income must not exceed ₹8,00,000 from all sources",
+    "For non-professional courses: annual family income must not exceed ₹8,00,000",
+    "For MBA: must be admitted through MAH-MBA CET CAP round conducted by CET Cell Maharashtra — management quota or institute-level admissions are NOT eligible",
+    "Institution must be AICTE-approved and listed on MahaDBT — Deemed Universities and Private Universities are NOT eligible",
+    "Student must not be receiving any other major government scholarship or fee waiver simultaneously",
+    "Must pass every academic year to continue scholarship — failure in any year suspends benefit until promotion to next year",
+    "Two consecutive years of education gap = loss of renewal eligibility",
+    "Course must be listed in the applicable GR under DTE (for MBA/MCA/Engineering) or DHE (for Arts/Science/Commerce)"
+  ],
+
+  "required_documents": [
+    "Aadhaar Card (mandatory for DBT)",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹8 lakh)",
+    "Maharashtra Domicile Certificate",
+    "CAP Allotment Letter (mandatory — proof of MAH-MBA CET CAP round admission)",
+    "Admission Receipt / Tuition Fee Receipt for current academic year",
+    "Bonafide Certificate from the MBA institute",
+    "Previous Year Marksheet (for renewal applicants)",
+    "Bank Passbook (Aadhaar-seeded account for DBT)",
+    "Passport Size Photograph",
+    "EWS Certificate (if applicable — for EWS sub-category students)",
+    "Caste Certificate confirming Open/General category (no reserved category caste)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal, academic, and bank details",
+    "Navigate to 'Directorate of Technical Education (DTE)' schemes list (for MBA/MCA students)",
+    "Select 'Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)' and click Apply",
+    "Fill in MBA course details, institution name, CAP allotment details, and income details accurately",
+    "Upload all required documents in JPG/PDF format as specified",
+    "Review all details and submit the application",
+    "Note Application ID and track real-time status via Granular Application Tracking on MahaDBT portal",
+    "A.Y. 2025–26 applications are open from 30 June 2025 until 30 June 2026; re-apply for A.Y. 2023–24 and 2024–25 also valid until 30 June 2026"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=uOkdRjJc_-4",
+    "https://www.youtube.com/watch?v=uDLF8b3gQqI",
+    "https://www.youtube.com/watch?v=G2XMz8TO9QY",
+    "https://www.youtube.com/watch?v=RgY1XxRR8bk"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "EBC Scheme Page (DTE — MBA/MCA/Engineering)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AA54D7A32E4C3B30A",
+    "EBC Scheme Page (DHE — Arts/Science/Commerce)": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A7F4D327BDEB7125DE0BA4AE1C51180C272281017EBEF6F7C",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+    "CET Cell Maharashtra (MAH-MBA CET CAP)": "https://cetcell.mahacet.org",
+    "DTE Maharashtra Official Website": "https://dte.maharashtra.gov.in"
+  }
+}

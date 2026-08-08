@@ -1,0 +1,71 @@
+{
+  "name": "Central Sector Scheme of Scholarship (CSSS)",
+
+  "des": "The Central Sector Scheme of Scholarship (CSSS) — also known as PM-USP CSSS — is a merit-cum-means scholarship scheme launched in 2008 by the Department of Higher Education, Ministry of Education, Government of India. It provides annual financial assistance to meritorious students from economically weaker families to help meet their day-to-day expenses while pursuing higher education. The scheme targets students who scored above the 80th percentile in their Class 12 board exams and are enrolled in regular undergraduate or postgraduate degree courses at recognized colleges/universities. Approximately 82,000 fresh scholarships are awarded every year — 41,000 for boys and 41,000 for girls — distributed across State Education Boards based on the state's population in the 18–25 age group. Scholarship amount is transferred directly to the student's Aadhaar-linked bank account via Direct Benefit Transfer (DBT) through the National Scholarship Portal (NSP).",
+
+  "benefits": [
+    "₹10,000 per annum (₹1,000/month for 10 months) for UG students in 1st, 2nd, and 3rd year of graduation",
+    "₹20,000 per annum (₹2,000/month for 10 months) for PG students or 4th & 5th year of integrated/professional courses",
+    "For B.Tech/B.E. students: ₹10,000/year for 1st to 3rd year and ₹20,000/year for 4th year",
+    "Scholarship renewable annually for the full duration of the course (up to 5 years)",
+    "82,000 scholarships awarded annually — 41,000 for boys, 41,000 for girls",
+    "Amount credited via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account",
+    "Selection is merit-based and board-wise / stream-wise"
+  ],
+
+  "criteria": [
+    "Student must be above the 80th percentile (top 20%) of successful candidates in Class 12 board exams (CBSE/State Board/ICSE or any recognized board)",
+    "Annual family income from all sources must not exceed ₹4,50,000",
+    "Must be enrolled in a regular undergraduate or postgraduate degree course — distance, correspondence, and diploma courses are NOT eligible",
+    "Institution must be recognized by UGC/AICTE/PCI or relevant statutory body and have a valid AISHE code on NSP",
+    "Student must not be availing any other government scholarship or fee waiver simultaneously",
+    "Students who took a drop year after Class 12 are NOT eligible",
+    "Student's age should be between 18 and 25 years",
+    "For renewal: must have secured minimum 50% marks in annual exams and maintained at least 75% attendance",
+    "Changing college or university is permitted only if the new institution has a valid AISHE code and the course remains eligible"
+  ],
+
+  "required_documents": [
+    "Class 12 Marksheet (for merit/percentile verification)",
+    "Annual Income Certificate from competent authority (family income ≤ ₹4.5 lakh)",
+    "Aadhaar Card (alternatives accepted: Voter ID, Driving License, PAN, Passport, Aadhaar Enrolment ID slip)",
+    "Bank Passbook (Aadhaar-linked account for DBT)",
+    "Admission Proof / Fee Receipt from current institution",
+    "Bonafide Certificate from college/institute",
+    "Passport Size Photograph",
+    "Caste Certificate (if applicable)",
+    "Disability Certificate (if applicable)"
+  ],
+
+  "application_process": [
+    "Visit the National Scholarship Portal: https://scholarships.gov.in",
+    "Complete One-Time Registration (OTR) — register with mobile number and complete face authentication via the OTR mobile app",
+    "Login to NSP and navigate to 'Apply for Scholarship'",
+    "Select 'Central Sector Scheme of Scholarships for College and University Students (CSSS)' under Department of Higher Education, Ministry of Education",
+    "Choose 'Fresh Application' or 'Renewal' as applicable",
+    "Fill in personal details, academic details (Class 12 percentile, course, institution), and bank account details",
+    "Upload all required documents in specified format",
+    "Review all entries carefully and submit the application before the deadline",
+    "Save the Application ID / Acknowledgement for tracking",
+    "Ensure your institute verifies your application on NSP — unverified applications are rejected",
+    "Track application status by logging into NSP with registered credentials"
+  ],
+
+  "official_portal": "https://scholarships.gov.in",
+
+ "yt_videos": [
+  "https://www.youtube.com/watch?v=l5D3YHO8t1w",
+  "https://www.youtube.com/watch?v=D5qo-VxQfPQ",
+  "https://www.youtube.com/watch?v=3N1xNyiZe9E",
+  "https://www.youtube.com/watch?v=kZ3QQXhUUNk"
+],
+
+  "official_links": {
+    "National Scholarship Portal (NSP)": "https://scholarships.gov.in",
+    "CSSS Scheme Details on NSP": "https://scholarships.gov.in/public/schemeGuidelines/Central_Sector_Scholarship_Scheme.pdf",
+    "Department of Higher Education, MoE": "https://www.education.gov.in",
+    "NSP Applicant Login": "https://scholarships.gov.in/fresh/loginPage",
+    "NSP OTR Registration": "https://scholarships.gov.in/otr/otpApplicationPage",
+    "Public Grievance Portal (for complaints)": "https://pgportal.gov.in"
+  }
+}

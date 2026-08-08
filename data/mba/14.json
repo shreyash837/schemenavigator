@@ -1,0 +1,79 @@
+{
+  "name": "State Minority Scholarship Part II (DHE)",
+
+  "des": "The State Minority Scholarship Part II (DHE) is a Maharashtra Government scholarship scheme implemented through the Directorate of Higher Education (DHE) and MahaDBT portal. The scheme aims to support students belonging to notified minority communities pursuing higher education by providing financial assistance towards educational expenses. It is available to students from Muslim, Christian, Sikh, Buddhist, Jain, and Parsi communities studying in recognized higher educational institutions in Maharashtra. The scholarship encourages continuation of education by reducing the financial burden on minority families. Benefits are disbursed through Direct Benefit Transfer (DBT) to the student's Aadhaar-linked bank account.",
+
+  "benefits": [
+    "Scholarship assistance provided to minority community students pursuing higher education",
+    "Financial support helps cover educational expenses during the academic year",
+    "Applicable for undergraduate and postgraduate courses in recognized institutions",
+    "Encourages continuation of higher education among minority students",
+    "Reduces financial burden on economically weaker minority families",
+    "Scholarship amount is credited directly through DBT to the student's bank account",
+    "Can be availed by eligible students studying in professional and non-professional courses",
+    "Supports students enrolled in approved higher education institutions in Maharashtra",
+    "Renewal facility available subject to satisfactory academic performance",
+    "Available through online application on the MahaDBT portal"
+  ],
+
+  "criteria": [
+    "Applicant must belong to a notified minority community (Muslim, Christian, Sikh, Buddhist, Jain, or Parsi)",
+    "Applicant must be a domicile/resident of Maharashtra",
+    "Student must be pursuing higher education in a recognized institution within Maharashtra",
+    "Annual family income from all sources should not exceed ₹8,00,000",
+    "Applicant must have secured at least 50% marks in the previous qualifying examination",
+    "Student must be admitted to a recognized undergraduate or postgraduate course",
+    "Applicant should not be receiving another scholarship for the same purpose from any other government department",
+    "Regular attendance and satisfactory academic progress must be maintained",
+    "Student must possess a valid Aadhaar-linked bank account for DBT benefits",
+    "All information and documents submitted must be genuine and verifiable"
+  ],
+
+  "required_documents": [
+    "Minority Community Self-Declaration or Certificate (if applicable)",
+    "Aadhaar Card",
+    "Domicile Certificate of Maharashtra",
+    "Annual Family Income Certificate issued by competent authority",
+    "Previous Qualifying Examination Marksheet",
+    "Current Year Admission Receipt",
+    "Bonafide Certificate from Institution",
+    "Fee Receipt for Current Academic Year",
+    "Bank Passbook (Aadhaar-linked account)",
+    "Passport Size Photograph",
+    "Institute ID Card (if available)",
+    "Undertaking/Declaration as prescribed by the scheme"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Register as a new applicant using Aadhaar-linked mobile number",
+    "Login and complete the applicant profile with personal, academic, and bank details",
+    "Navigate to Directorate of Higher Education (DHE) schemes section",
+    "Select 'State Minority Scholarship Part II (DHE)' from the available schemes list",
+    "Fill in all required academic, personal, and institution details",
+    "Upload all necessary documents in the prescribed format",
+    "Verify the entered information carefully before submission",
+    "Submit the scholarship application online",
+    "Note the Application ID for future reference and tracking",
+    "Ensure that the institution verifies and forwards the application",
+    "Track application status regularly through the MahaDBT portal"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=Wv1GgKM-Nks",
+    "https://www.youtube.com/watch?v=PMTj7RgPL8E",
+    "https://www.youtube.com/watch?v=b_GVkrPZiLU",
+    "https://www.youtube.com/watch?v=WQIKwnpo5jw"
+  ],
+
+  "official_links": {
+    "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+    "State Minority Scholarship Part II (DHE) Scheme Page": "https://mahadbt.maharashtra.gov.in",
+    "Directorate of Higher Education Maharashtra": "https://dhe.maharashtra.gov.in",
+    "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+    "Maharashtra Government Portal": "https://maharashtra.gov.in",
+    "MahaDBT Schemes Dashboard": "https://mahadbt.maharashtra.gov.in"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Post-Matric Scholarship for OBC Students",
+
+  "des": "The Post-Matric Scholarship for OBC Students is a government scholarship scheme by the VJNT, OBC and SBC Welfare Department, Government of Maharashtra. It provides financial assistance to Other Backward Class (OBC) students pursuing higher education after Class 10 (from Class 11 onwards). The scheme covers tuition fees, examination fees, and monthly maintenance allowance for both professional and non-professional courses. Benefits are disbursed directly to the student's Aadhaar-seeded bank account via Direct Benefit Transfer (DBT). As per GR dated 8 July 2024, OBC girl students receive 100% scholarship benefits across all institution types.",
+
+  "benefits": [
+    "100% Tuition Fee reimbursement for government/government-aided institution students (professional & non-professional courses)",
+    "50% Tuition Fee reimbursement for students in unaided private colleges in professional courses",
+    "Examination Fee reimbursement as per actuals",
+    "Monthly Maintenance Allowance — Group A courses: Hostlers ₹425/month, Day Scholars ₹190/month",
+    "Monthly Maintenance Allowance — Group B & C courses: Hostlers ₹290/month, Day Scholars ₹190/month",
+    "Monthly Maintenance Allowance — Group D courses: Hostlers ₹230/month, Day Scholars ₹190/month",
+    "100% benefits (Tuition Fee + Exam Fee + Maintenance Allowance) for B.Ed and D.Ed courses",
+    "OBC girl students get 100% scholarship benefits in professional courses at all institution types (GR dated 8 July 2024)",
+    "Maintenance allowance paid from date of admission till date of final examination",
+    "Direct Benefit Transfer (DBT) to Aadhaar-seeded bank account"
+  ],
+
+  "criteria": [
+    "Student must belong to OBC category as per Central/State OBC list",
+    "Student must be a permanent resident/domicile of Maharashtra",
+    "Annual family income must not exceed ₹1,50,000 (₹1.5 Lakh) from all sources",
+    "Student must be studying in a government-recognized institution from Class 11 or above (post-matric level)",
+    "For professional courses: admission must be through CAP (Centralized Admission Process) round",
+    "Only 2 male children from the same parents are eligible; no restriction on number of female children",
+    "If student fails in a year, benefits are given for that year only; suspended until promotion to next class",
+    "Student must not be receiving any other major scholarship or stipend simultaneously",
+    "Changing course mid-academic year after availing scholarship makes student ineligible for the new course"
+  ],
+
+  "required_documents": [
+    "OBC Caste Certificate issued by competent authority",
+    "OBC Caste Validity Certificate",
+    "Annual Income Certificate from Tehsildar/SDO (family income ≤ ₹1.5 Lakh)",
+    "Aadhaar Card (mandatory for DBT)",
+    "Maharashtra Domicile Certificate",
+    "Admission Receipt / Fee Receipt for current academic year",
+    "Bonafide Certificate from the institute",
+    "Previous Year Marksheet (SSC, HSC, or last qualifying examination)",
+    "Bank Passbook (Aadhaar-seeded account for DBT)",
+    "Passport Size Photograph",
+    "CAP Allotment Letter (mandatory for professional course applicants only)"
+  ],
+
+  "application_process": [
+    "Visit MahaDBT portal: https://mahadbt.maharashtra.gov.in",
+    "Click 'New Applicant Registration' and register with Aadhaar-linked mobile number",
+    "Login and complete Applicant Profile with personal and academic details",
+    "Navigate to VJNT, OBC and SBC Welfare Department schemes list",
+    "Select 'Post Matric Scholarship to OBC Students' and click Apply",
+    "Fill in academic details, institute name, course, and admission details",
+    "Upload all required documents in specified format (JPG/PDF)",
+    "Review all details carefully and submit the application",
+    "Note down the Application ID for future status tracking",
+    "Track real-time application status using Granular Application Tracking on MahaDBT portal"
+  ],
+
+  "official_portal": "https://mahadbt.maharashtra.gov.in",
+
+  "yt_videos": [
+    "https://www.youtube.com/watch?v=1wZWvtxzkpw",
+    "https://www.youtube.com/watch?v=PMTj7RgPL8E",
+    "https://www.youtube.com/watch?v=B6T6HlsaGYU",
+    "https://www.youtube.com/watch?v=g2eJokg1t8w"
+  ],
+
+ "official_links": {
+  "MahaDBT Main Portal": "https://mahadbt.maharashtra.gov.in",
+  "OBC Post-Matric Scholarship Scheme Page": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51AC54E5F6E794BD5C1",
+  "MahaDBT Applicant Login": "https://mahadbt.maharashtra.gov.in/login/login",
+  "VJNT OBC SBC Welfare Department": "https://vjnt.maharashtra.gov.in"
+}
+}
